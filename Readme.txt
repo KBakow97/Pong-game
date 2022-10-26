@@ -1,1 +1,1 @@
-Its my first project where I try Turtle
+Its my project where I used turtle to make small pong game
